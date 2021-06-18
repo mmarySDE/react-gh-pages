@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://src/components/select-birthday.scss"],"names":[],"mappings":"AAAA,iBACE,oBAAA,CAAA,YAAA,CACA,UAAA,CACA,wBAAA","file":"main.abc84476.chunk.css","sourcesContent":[".select-birthday {\n  display: flex;\n  width: 100%;\n  background-color: #fff9f9;\n}\n"]}

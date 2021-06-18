@@ -1,24 +1,25 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.abc84476.chunk.css",
-    "main.js": "/react-gh-pages/static/js/main.fbfe260b.chunk.js",
-    "main.js.map": "/react-gh-pages/static/js/main.fbfe260b.chunk.js.map",
-    "runtime-main.js": "/react-gh-pages/static/js/runtime-main.386b7e08.js",
-    "runtime-main.js.map": "/react-gh-pages/static/js/runtime-main.386b7e08.js.map",
-    "static/js/2.bdf56314.chunk.js": "/react-gh-pages/static/js/2.bdf56314.chunk.js",
-    "static/js/2.bdf56314.chunk.js.map": "/react-gh-pages/static/js/2.bdf56314.chunk.js.map",
-    "static/js/3.cc857e69.chunk.js": "/react-gh-pages/static/js/3.cc857e69.chunk.js",
-    "static/js/3.cc857e69.chunk.js.map": "/react-gh-pages/static/js/3.cc857e69.chunk.js.map",
+    "main.css": "/react-gh-pages/static/css/main.40a17155.chunk.css",
+    "main.js": "/react-gh-pages/static/js/main.d60a9f59.chunk.js",
+    "main.js.map": "/react-gh-pages/static/js/main.d60a9f59.chunk.js.map",
+    "runtime-main.js": "/react-gh-pages/static/js/runtime-main.a9f62a2a.js",
+    "runtime-main.js.map": "/react-gh-pages/static/js/runtime-main.a9f62a2a.js.map",
+    "static/js/2.eede0cfd.chunk.js": "/react-gh-pages/static/js/2.eede0cfd.chunk.js",
+    "static/js/2.eede0cfd.chunk.js.map": "/react-gh-pages/static/js/2.eede0cfd.chunk.js.map",
+    "static/js/3.cc22a571.chunk.js": "/react-gh-pages/static/js/3.cc22a571.chunk.js",
+    "static/js/3.cc22a571.chunk.js.map": "/react-gh-pages/static/js/3.cc22a571.chunk.js.map",
     "index.html": "/react-gh-pages/index.html",
-    "static/css/main.abc84476.chunk.css.map": "/react-gh-pages/static/css/main.abc84476.chunk.css.map",
-    "static/js/2.bdf56314.chunk.js.LICENSE.txt": "/react-gh-pages/static/js/2.bdf56314.chunk.js.LICENSE.txt",
-    "static/media/cancer.89450c24.png": "/react-gh-pages/static/media/cancer.89450c24.png",
-    "static/media/capricorn.e5723643.png": "/react-gh-pages/static/media/capricorn.e5723643.png"
+    "static/css/main.40a17155.chunk.css.map": "/react-gh-pages/static/css/main.40a17155.chunk.css.map",
+    "static/js/2.eede0cfd.chunk.js.LICENSE.txt": "/react-gh-pages/static/js/2.eede0cfd.chunk.js.LICENSE.txt",
+    "static/media/aquarius.7ef37e70.png": "/react-gh-pages/static/media/aquarius.7ef37e70.png",
+    "static/media/cancer.22e74205.png": "/react-gh-pages/static/media/cancer.22e74205.png",
+    "static/media/capricorn.9f2edbbe.png": "/react-gh-pages/static/media/capricorn.9f2edbbe.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.386b7e08.js",
-    "static/js/2.bdf56314.chunk.js",
-    "static/css/main.abc84476.chunk.css",
-    "static/js/main.fbfe260b.chunk.js"
+    "static/js/runtime-main.a9f62a2a.js",
+    "static/js/2.eede0cfd.chunk.js",
+    "static/css/main.40a17155.chunk.css",
+    "static/js/main.d60a9f59.chunk.js"
   ]
 }
